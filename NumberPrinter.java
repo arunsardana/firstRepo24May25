@@ -13,6 +13,7 @@ public class NumberPrinter implements Runnable {
 		System.out.println(n+" "+Thread.currentThread().getName());
 		//changes feature1
 		//changes  2 added in feature1
+		//changes 1 in feature 2
 		
 	}
 
