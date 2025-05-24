@@ -12,6 +12,7 @@ public class NumberPrinter implements Runnable {
 		// TODO Auto-generated method stub
 		System.out.println(n+" "+Thread.currentThread().getName());
 		//changes feature1
+		//changes  2 added in feature1
 		
 	}
 
